@@ -1,4 +1,5 @@
-**My Readme file**
-#this is my Vagrant project
-*create a repo named zero_day
-*create a readme file
+*MY FIRST README*
+**The vagrant Project**
+* create a repo named zero_day
+* create a readme file
+* push to your repo
